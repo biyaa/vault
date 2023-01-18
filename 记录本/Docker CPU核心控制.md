@@ -7,5 +7,9 @@
 docker run -it --cpuset-cpus 8 centos /bin/bash
 ```
 
+官方命令说明：
+![[docker的cpu相关参数.png]]
+
+
 [[技术]] [[docker]]   [[cpu核绑定]]
-标签： #技术 #docker 
+标签： #技术/docker/cpu性能  

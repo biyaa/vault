@@ -8,4 +8,4 @@ docker run -it -v /home/dock/downloads:/usr/downloads ubuntu64 /bin/bash
 
 [[docker]] [[挂载本地文件夹]]
 
-标签： #docker   #挂载本地目录
+标签： #技术/docker/挂载本地目录
